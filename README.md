@@ -1,5 +1,6 @@
 # lesson1_FloatingActionButton
 
 
-https://user-images.githubusercontent.com/59411109/189523284-6c8719fa-7c37-4a4e-b983-26d310ead5db.mp4
+![FloatingActionButton](https://user-images.githubusercontent.com/59411109/189523507-7aae3f54-fc2f-4f83-bb53-db099f8ed5f1.gif)
+
 
